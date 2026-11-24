@@ -1,4 +1,4 @@
-# ASCII Bouquet Art
+# ASCII bouquet
 
 A lightweight Python script that renders detailed ASCII flower bouquet art directly in the terminal.
 
