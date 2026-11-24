@@ -1,5 +1,7 @@
 # ASCII bouquet
 
+![ASCII Bouquet Preview](bouq.png)
+
 A lightweight Python script that renders detailed ASCII flower bouquet art directly in the terminal.
 
 ## Requirements
