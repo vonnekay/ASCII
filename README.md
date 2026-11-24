@@ -1,6 +1,10 @@
 # ASCII bouquet
 
-![ASCII Bouquet Preview](bouq.png)
+
+<img width="946" height="894" alt="bouq" src="https://github.com/user-attachments/assets/830a9e54-c13d-4259-9cd4-629ec874dfe8" />
+
+
+
 
 A lightweight Python script that renders detailed ASCII flower bouquet art directly in the terminal.
 
